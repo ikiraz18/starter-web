@@ -19,3 +19,7 @@ This is example deployment 2
 This is example contribute
 
 Sample website with plenty of files for demos
+
+### Copyright
+
+2020 IKIRAZ

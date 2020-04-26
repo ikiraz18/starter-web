@@ -18,6 +18,9 @@ This is example deployment 2
 PLease fork this repo and issue pull req
 This is example contribute
 
+## Thanks
+thanks to my family
+
 Sample website with plenty of files for demos
 
 ### Copyright

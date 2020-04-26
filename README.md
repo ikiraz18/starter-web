@@ -12,8 +12,10 @@ This is example Purpose
 
 ## Deployment
 
-This is example deployment
+This is example deployment 2
 
 ## How to Contribute
+
+This is example contribute
 
 Sample website with plenty of files for demos

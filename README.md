@@ -4,6 +4,8 @@ This is the sample web site
 
 ## Introduction
 
+This is example introduction
+
 ## Purpose
 
 ## Deployment
